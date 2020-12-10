@@ -1,2 +1,2 @@
 # Giraffe-Language
-simple translator
+simple translator that changes all vowels to "g"
